@@ -1,0 +1,12 @@
+{
+  "name": "booktrack-svr",
+  "version": "1.0.0",
+  "description": "Simple API server for book track db",
+  "author": "Paul",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0"
+  }
+}
